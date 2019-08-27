@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginUSer</string>
+    <string name="no_data_found">No data found</string>
+    <string name="logged_user">Logged User</string>
+    <string name="available_users">Available Users</string>
+    <string name="add_menu">Add Menu</string>
+    <string name="are_you_sure_to_login">Are you sure to login ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+</resources>
